@@ -1,0 +1,4 @@
+name: ImprovedWeapons
+version: '1.0-SNAPSHOT'
+main: org.test.improvedweapons.ImprovedWeapons
+api-version: 1.19
