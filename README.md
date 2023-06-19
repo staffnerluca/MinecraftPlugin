@@ -1,1 +1,3 @@
 # MinecraftPlugin
+
+Hier ist mein Minecraft Plugin. Die Klasse Sword wurde usrpünglich in Kotlin implementiert, weil mich die Lust gepackt hat mich an etwas neuem zu versuchen. Weil es irgendein kleineres technisches Problem gab, als ein Teil der Klassen in Kotlin und ein Teil in Java war habe ich die anderen mithilfe von IntelliJ auch in Kotlin konvertiert, was sehr angenehm mit nur ein paar Klicks ging. Für die eigentliche Programmierung hat es kaum einen Unterschied gemacht, da man ohnehin die meiste Zeit nur das das Bukkit und Spigot Zeug zugreift. Persönlich empfinde ich Kotlin jedoch als die angenehmere Sprache zum Arbeiten.
